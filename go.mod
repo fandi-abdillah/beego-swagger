@@ -1,4 +1,4 @@
-module beego-swagger
+module github.com/fandi-abdillah/beego-swagger
 
 go 1.17
 
